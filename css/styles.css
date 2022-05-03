@@ -362,6 +362,7 @@ img {
 }
 .footer-div {
   display: flex;
+  align-items: baseline;
 }
 .footer .logo {
   margin-bottom: 20px;
@@ -391,7 +392,6 @@ img {
   color: var(--active-color);
 }
 .footer-two {
-  margin-top: 12px;
   margin-left: 80px;
 }
 .footer-two .title {
